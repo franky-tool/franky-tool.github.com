@@ -1,0 +1,79 @@
+nav.navbar.navbar-default{
+  margin-bottom:0;
+}
+
+div.jumbotron.text-center{
+  margin-bottom:0;
+  margin-top:3em;
+  min-height:90vh;
+  background:url("https://pixabay.com/static/uploads/photo/2015/10/27/14/40/programming-1009134_960_720.jpg") no-repeat;
+  background-size:cover;
+}
+
+.Feature-icon{
+  font-size:4em;
+}
+
+.Section-row{
+  margin:5em 0 1em 0;
+}
+
+div.jumbotron.text-center{
+  position:relative;
+}
+
+.Jumbotron-content{
+  position:absolute;
+  top:50%;
+  transform:translateY(-50%);
+  text-align:center;
+  width:100%;
+}
+
+.Doc-links{
+  text-align:left;
+  font-size:1em;
+}
+
+Doc-links .list-group-item{
+  border:none;
+}
+
+li.list-group-item{
+  border:none;
+}
+
+.Jumbotron-whiteScreen{
+  position:absolute;
+  left:0;
+  top:0;
+  bottom:0;
+  width:100%;
+  background:rgba(255,255,255,0.8);
+}
+
+.Section-row .col-md-4{
+  min-height:14em;
+  padding:1em;
+}
+
+.Section-Links{
+  margin-top:1em;
+}
+
+.Section-footer{
+  margin:3em 0 2em 0;
+}
+
+div#bodyContent{
+  margin-top:3em;
+}
+
+.Igor-title{
+  margin-bottom:2em;
+}
+
+.mg-bottom-2em{
+  margin-bottom:2em;
+}
+
